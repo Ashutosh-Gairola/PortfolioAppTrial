@@ -29,7 +29,7 @@ class Home extends StatelessWidget {
                   child: Column(
                     children: <Widget>[
                       Text(
-                        "Ashutosh Gairola",
+                        "Ashutosh",
                         style: TextStyle(fontSize: 20.0),
                       ),
                       Text("App Developer"),
