@@ -1,5 +1,6 @@
 # Portfolio_app
-![image](https://github.com/user-attachments/assets/47d60e27-3188-43fe-b2c1-77d6c8447094)
+![Android Emulator - Pixel_6_API_33_5554 2024-09-06 11-03-33](https://github.com/user-attachments/assets/d5b130a0-4379-446b-ab27-02fc0a6ec18c)
+
 
 A new Flutter project.
 
